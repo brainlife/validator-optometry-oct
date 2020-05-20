@@ -1,0 +1,6 @@
+{
+    "os_raw": "testdata/OS_Raw.csv",
+    "os_centroid": "testdata/OScentroid.csv",
+    "od_raw": "testdata/OD_Raw.csv",
+    "od_centroid": "testdata/ODcentroid.csv"
+}
