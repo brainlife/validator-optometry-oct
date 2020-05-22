@@ -27,7 +27,7 @@ if not os.path.exists("output"):
 files=[
     ["os_raw", "OS_Raw.csv"], 
     ["os_centroid", "OScentroid.csv"], 
-    ["od_raw", "OD_Raw_csv"], 
+    ["od_raw", "OD_Raw.csv"], 
     ["od_centroid", "ODcentroid.csv"],
 ]
 
