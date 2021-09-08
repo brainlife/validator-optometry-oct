@@ -25,10 +25,10 @@ if not os.path.exists("output"):
     os.mkdir("output")
 
 files=[
-    ["os_raw", "OS_Raw.csv"], 
-    ["os_centroid", "OScentroid.csv"], 
-    ["od_raw", "OD_Raw.csv"], 
-    ["od_centroid", "ODcentroid.csv"],
+    ["os_raw", "OS_raw.csv"], 
+    ["os_centroid", "OS_centroid.csv"], 
+    ["od_raw", "OD_raw.csv"], 
+    ["od_centroid", "OD_centroid.csv"],
 ]
 
 for file in files:
